@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Felipe  
+-Profissão: Engenheiro Civil em transição de Carreira para Q.A
+-Cidade: Brasília - DF
+-O que faz nas horas vaga: Estudo, vou à academia, leio livros e saio com a namorada
+-Feedback sobre o curso Qualidade de Software: Curso muito bom com um professor que passa confiança, bem prestativo que está sempre respondendo as perguntas o mais rápido possível. Estou bem confiante e esperançoso para conseguir um bom emprego nessa área ainda neste ano. 
+-Feedback sobre a plataforma de estudo da EBAC: Plataforma completa e de fácil utilização. Como sugestão poderia ter um modelo de resposta para cada exercício proposto nos módulos a fim de termos uma base e adotarmos melhores práticas.
 
 Obrigado!!!
 
